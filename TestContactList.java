@@ -1,5 +1,4 @@
-//Name = Tomasz Zajas
-//Student No. = 20278748
+
 
 import java.util.Arrays;
 public class TestContactList{
