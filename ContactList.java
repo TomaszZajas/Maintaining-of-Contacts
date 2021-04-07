@@ -1,6 +1,3 @@
-//Name = Tomasz Zajas
-//Student No. = 20278748
-////!! I am using the ContactList class given to us in the sample programs and adding the overloaded remove methotds and the sort method !!
 
 import java.util.Arrays;
 public class ContactList {
